@@ -210,6 +210,10 @@ def rand_alive():
 
 
 
+print(circle_area)
+
+print(circle_area)
+
 
       
 
